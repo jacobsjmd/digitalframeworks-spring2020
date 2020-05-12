@@ -1,0 +1,160 @@
+IND,TOWN,NAME,BEDS,CASES,CONFIRMED DEATHS,PROBABLE DEATHS
+1,Avon,Apple Rehab Avon,60,15,5,1
+2,Avon,Avon Health Center,120,10,0,0
+3,Berlin,Ledgecrest Health Care,60,30,3,1
+4,Bethel,Bethel Health Care Center,161,45,8,3
+5,Bloomfield,Bloomfield Center for Nursing and Rehabilitation,120,20,9,7
+6,Bloomfield,Caleb Hitchcock Health Center,60,5,1,0
+7,Bloomfield,Seabury,72,20,6,1
+8,Bloomfield,Touchpoints at Bloomfield,150,51,11,2
+9,Branford,Branford Hills Health Care Center,190,93,18,1
+10,Bridgeport,Jewish Senior Services,294,42,12,2
+11,Bridgeport,Northbridge Healthcare Center,145,36,7,6
+12,Bridgeport,Springs at Watermark 3030 Park,23,8,3,1
+13,Bristol,Countryside Manor of Bristol,90,49,17,1
+14,Bristol,Ingraham Manor,128,6,0,1
+15,Bristol,Pines At Bristol Center for Nursing & Rehabilitation,132,18,0,0
+16,Bristol,Sheridan Woods Health Care Center,146,73,26,3
+17,Canaan,Geer Nursing And Rehabilitation Center,120,1,0,0
+18,Canton,Cherry Brook Health Care Center,100,59,17,3
+19,Cheshire,Cheshire Regional Rehab Center,85,1,0,0
+20,Cheshire,Elim Park Baptist Home,90,34,7,0
+21,Chester,Aaron Manor Nursing and Rehabilitation,60,25,10,0
+22,Chester,Chesterfields Health Care Center,60,0,0,1
+23,Cromwell,Apple Rehab Cromwell,85,32,3,1
+24,Cromwell,Autumn Lake Healthcare At Cromwell,175,54,2,2
+25,Danbury,Filosa Nursing & Rehabilitation,64,2,0,0
+26,Danbury,Glen Hill Center,100,12,0,1
+27,Danbury,Hancock Hall,96,1,1,0
+28,Danbury,Saint John Paul II Center,141,76,27,3
+29,Danbury,Western Rehabilitation Care Center,120,43,12,4
+30,East Hartford,Riverside Health & Rehabilitation Center,345,104,29,18
+31,East Haven,Apple Rehab Laurel Woods,120,19,1.0,2.0
+32,East Haven,Whispering Pines,90,52,11.0,13.0
+33,East Windsor,Fresh River Healthcare,140,36,1.0,4.0
+34,Enfield,Parkway Pavilion Health and Rehabilitation Center,130,93,16.0,2.0
+35,Fairfield,Cambridge Health and Rehabilitation Center,160,35,10.0,9.0
+36,Fairfield,Carolton Chronic & Convalescent Hospital,229,47,12.0,1.0
+37,Fairfield,Ludlowe Center for Health & Rehabilitation,144,42,9.0,14.0
+38,Farmington,Touchpoints at Farmington,105,80,13.0,3.0
+39,Glastonbury,Glastonbury Health Care Center,105,49,19.0,6.0
+40,Glastonbury,Salmon Brook Rehab and Nursing,130,30,12.0,4.0
+41,Granby,Meadowbrook of Granby,90,0,0.0,1.0
+42,Greenwich,Greenwich Woods,217,28,7.0,3.0
+43,Greenwich,Nathaniel Witherall,202,45,8.0,1.0
+44,Greenwich,RegalCare at Greenwich,75,5,2.0,0.0
+45,Groton,Mystic Healthcare & Rehabilitation Center,100,45,9.0,3.0
+46,Guilford,Apple Rehab Guilford,90,23,5.0,1.0
+47,Guilford,Guilford House,75,1,0.0,0.0
+48,Hamden,Arden House,360,69,12.0,0.0
+49,Hamden,Hamden Rehabilitation & Health Care Center,153,48,11.0,1.0
+50,Hamden,Whitney Center,59,0,1.0,0.0
+51,Hamden,Whitney Rehabilitation Care Center,150,60,7.0,0.0
+52,Hartford,Avery Nursing Home/Noble Building,199,30,4.0,0.0
+53,Hartford,Chelsea Place,234,62,16.0,8.0
+54,Hartford,Parkville Care Center,150,60,5.0,2.0
+55,Hartford,Trinity Hill Care Center,144,62,6.0,1.0
+56,Madison,Madison House,89,40,7.0,2.0
+57,Manchester,Crestfield Rehabilitation Center,155,24,8.0,1.0
+58,Manchester,Manchester Manor Health Care Center,126,19,6.0,1.0
+59,Manchester,Touchpoints at Manchester,131,47,14.0,4.0
+60,Manchester,Westside Care Center,162,49,0.0,3.0
+61,Marlborough,Marlborough Health Care Center,120,20,1.0,0.0
+62,Meriden,Apple Rehab Coccomo,100,30,8.0,5.0
+63,Meriden,Meriden Center,130,1,0.0,0.0
+64,Meriden,Silver Springs Care Center,159,55,3.0,0.0
+65,Meriden,The Curtis Home,60,10,7.0,0.0
+66,Middletown,Apple Rehab Middletown,70,12,4.0,5.0
+67,Middletown,Middlesex Health Care Center,150,30,18.0,4.0
+68,Middletown,Water's Edge Center for Health & Rehabilitation,150,30,5.0,4.0
+69,Milford,Golden Hill Rehab Pavilion,120,82,17.0,6.0
+70,Milford,Milford Health and Rehabilitation Center,120,73,18.0,1.0
+71,Milford,West River Rehab Center,120,18,3.0,1.0
+72,Naugatuck,Beacon Brook Health Center,126,24,2.0,0.0
+73,Naugatuck,Glendale Center,120,32,3.0,0.0
+74,New Britain,Autumn Lake Healthcare At New Britain,282,67,5.0,1.0
+75,New Britain,Cassena Care at New Britain,90,28,2.0,1.0
+76,New Britain,Grandview Rehabilitation and Healthcare Center,160,38,16.0,3.0
+77,New Canaan,Waveny Care Center,76,43,5.0,2.0
+78,New Haven,Advanced Center For Nursing And Rehabilitation,226,33,1.0,0.0
+79,New Haven,Grimes Center,114,58,3.0,0.0
+80,New Haven,RegalCare at New Haven,150,35,5.0,0.0
+81,New Haven,The Mary Wade Home,94,33,12.0,6.0
+82,New London,Harbor Village,128,5,1.0,0.0
+83,New Milford,Candlewood Valley Health & Rehabilitation Center,148,2,2.0,0.0
+84,New Milford,Village Crest Center for Health & Rehabilitation,95,36,7.0,0.0
+85,Newington,Bel Air Manor,71,2,2.0,1.0
+86,Newington,Jefferson House,104,21,0.0,1.0
+87,Newington,Newington Rapid Recovery Rehab Center,180,71,13.0,7.0
+88,Newtown,Newtown Rehabilitation & Health Care Center,154,15,0.0,0.0
+89,Niantic,Bride Brook Health & Rehabilitation Center,130,96,5.0,2.0
+90,North Haven,Montowese Health & Rehabilitation Center,120,78,9.0,1.0
+91,Norwalk,Autumn Lake Healthcare at Norwalk,150,56,15.0,6.0
+92,Norwalk,Cassena Care at Norwalk,150,63,11.0,0.0
+93,Norwalk,Notre Dame Health and Rehabilitation Center,60,6,0.0,0.0
+94,Orange,Orange Health Care Center,60,43,2.0,0.0
+95,Plainville,Apple Rehab Farmington Valley,160,22,7.0,1.0
+96,Portland,Portland Care and Rehabilitation,65,22,6.0,2.0
+97,Redding,Ridge Crest at Meadow Ridge,62,10,7.0,1.0
+98,Ridgefield,Laurel Ridge Health Care Center,126,22,6.0,1.0
+99,Rocky Hill,60 West,95,30,5.0,0.0
+100,Rocky Hill,Apple Rehab Rocky Hill,120,74,15.0,2.0
+101,Rocky Hill,John L. Levitow Health Care Center,125,5,0.0,1.0
+102,Rocky Hill,Maple View Health & Rehabilitation Center,120,32,12.0,6.0
+103,Seymour,Shady Knoll Health Center,128,73,26.0,3.0
+104,Sharon,Sharon Health Care Center,88,7,0.0,0.0
+105,Shelton,Apple Rehab Shelton Lakes,106,50,16.0,3.0
+106,Shelton,Bishop-Wicke Health and Rehabilitation,120,27,17.0,13.0
+107,Shelton,Gardner Heights Health Care Center,130,50,21.0,4.0
+108,Shelton,Hewitt Health & Rehabilitation Center,120,49,13.0,3.0
+109,Simsbury,Governor's House,70,1,0.0,0.0
+110,Simsbury,McLean Health Center,89,24,3.0,1.0
+111,Southbury,Lutheran Home of Southbury,120,41,14.0,1.0
+112,Southington,Southington Care Center,130,17,0.0,0.0
+113,Southington,Summit at Plantsville,150,48,9.0,2.0
+114,Southport,RegalCare at Southport,120,39,7.0,1.0
+115,Stafford Springs,Evergreen Health Care Center,180,47,14.0,1.0
+116,Stamford,Cassena Care at Stamford,156,72,13.0,3.0
+117,Stamford,Edgehill Health Center,46,18,6.0,2.0
+118,Stamford,Long Ridge Post-Acute Care,120,58,10.0,1.0
+119,Stamford,St. Camillus Center,124,40,15.0,2.0
+120,Stamford,The Villa at Stamford,128,24,5.0,0.0
+121,Stratford,Lord Chamberlain Manor,60,13,0.0,0.0
+122,Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190,58,26.0,3.0
+123,Suffield,Suffield House,128,50,9.0,7.0
+124,Tolland,Woodlake at Tolland Rehabilitation and Nursing Center,130,0,0.0,1.0
+125,Torrington,Litchfield Woods,160,126,28.0,2.0
+126,Torrington,RegalCare at Torrington,75,32,7.0,0.0
+127,Torrington,Valerie Manor,151,59,5.0,7.0
+128,Torrington,Wolcott Hall Nursing Center,60,13,4.0,1.0
+129,Trumbull,Maefair Health Care Center,134,68,15.0,8.0
+130,Trumbull,St. Joseph's Center,269,92,14.0,9.0
+131,Vernon,Fox Hill Center,150,57,10.0,0.0
+132,Wallingford,Masonicare Health Center,357,9,0.0,1.0
+133,Wallingford,Quinnipiac Valley Center,180,55,6.0,1.0
+134,Wallingford,Regency House Nursing and Rehabilitation Center,130,64,15.0,4.0
+135,Wallingford,Skyview Rehab and Nursing,97,48,1.0,0.0
+136,Waterbury,Abbott Terrace Health Center,205,121,31.0,7.0
+137,Waterbury,Autumn Lake Healthcare At Bucks Hill,90,15,2.0,0.0
+138,Waterbury,Cheshire House Health Care Facility & Rehabilitation Center,75,23,1.0,1.0
+139,Waterbury,RegalCare at Waterbury,120,50,9.0,0.0
+140,Waterbury,Waterbury Gardens Nursing and Rehabilitation,150,39,11,1.0
+141,Waterbury,Grove Manor Nursing Home,60,3,0,0.0
+142,Waterford,Bayview Health Care,127,37,7,0.0
+143,Waterford,New London Sub-Acute and Nursing,120,74,1,0.0
+144,Watertown,Apple Rehab Watertown,110,1,1,0.0
+145,West Hartford,Hebrew Center for Health and Rehabilitation,257,34,3,2.0
+146,West Hartford,Hughes Health and Rehabilitation,170,37,7,6.0
+147,West Hartford,Saint Mary Home,256,43,9,8.0
+148,West Hartford,The Reservoir,75,8,2,0.0
+149,West Hartford,West Hartford Health and Rehabilitation Center,160,23,6,9.0
+150,West Haven,Apple Rehab West Haven,90,57,6,1.0
+151,West Haven,RegalCare at West Haven,98,18,5,0.0
+152,Westport,Westport Rehabilitation Complex,99,28,7,4.0
+153,Wilton,Wilton Meadows Health Care Center,148,8,7,15.0
+154,Windham,St. Joseph's Living Center,120,26,3,0.0
+155,Windsor,Kimberly Hall North,150,68,15,25.0
+156,Windsor,Kimberly Hall South,180,65,9,3.0
+157,Windsor,Windsor Health and Rehabilitation Center,108,54,17,3.0
+158,Windsor Locks,Bickford Health Care Center,48,14,0,1.0
+159,Woodbridge,The Willows,90,59,11,5.0

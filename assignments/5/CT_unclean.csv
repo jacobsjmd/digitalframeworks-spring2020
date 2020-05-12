@@ -1,0 +1,273 @@
+"",,,,Number,
+"",,,,of,Number of COVID-19-
+"",,,,residents,associated deaths
+"",,,Number,with,among residents2
+"",,,of,laboratory,
+"",,,licensed,confirmed,Laboratory-
+"",Town,Nursing Home,beds,COVID-191,confirmed Probable
+1,Avon,Apple Rehab Avon,60,15,5 1
+2,Avon,Avon Health Center,120,10,0 0
+3,Berlin,Ledgecrest Health Care,60,30,3 1
+4,Bethel,Bethel Health Care Center,161,45,8 3
+"",,Bloomfield Center for Nursing and,,,
+5,Bloomfield,Rehabilitation,120,20,9 7
+6,Bloomfield,Caleb Hitchcock Health Center,60,5,1 0
+7,Bloomfield,Seabury,72,20,6 1
+8,Bloomfield,Touchpoints at Bloomfield,150,51,11 2
+9,Branford,Branford Hills Health Care Center,190,93,18 1
+10,Bridgeport,Jewish Senior Services,294,42,12 2
+11,Bridgeport,Northbridge Healthcare Center,145,36,7 6
+12,Bridgeport,Springs at Watermark 3030 Park,23,8,3 1
+13,Bristol,Countryside Manor of Bristol,90,49,17 1
+14,Bristol,Ingraham Manor,128,6,0 1
+"",,Pines At Bristol Center for Nursing,,,
+15,Bristol,& Rehabilitation,132,18,0 0
+"",,Sheridan Woods Health Care,,,
+16,Bristol,Center,146,73,26 3
+"",,Geer Nursing And Rehabilitation,,,
+17,Canaan,Center,120,1,0 0
+18,Canton,Cherry Brook Health Care Center,100,59,17 3
+19,Cheshire,Cheshire Regional Rehab Center,85,1,0 0
+20,Cheshire,Elim Park Baptist Home,90,34,7 0
+"",,Aaron Manor Nursing and,,,
+21,Chester,Rehabilitation,60,25,10 0
+22,Chester,Chesterfields Health Care Center,60,0,0 1
+23,Cromwell,Apple Rehab Cromwell,85,32,3 1
+"",,Autumn Lake Healthcare At,,,
+24,Cromwell,Cromwell,175,54,2 2
+25,Danbury,Filosa Nursing & Rehabilitation,64,2,0 0
+26,Danbury,Glen Hill Center,100,12,0 1
+27,Danbury,Hancock Hall,96,1,1 0
+28,Danbury,Saint John Paul II Center,141,76,27 3
+"",,Western Rehabilitation Care,,,
+29,Danbury,Center,120,43,12 4
+"",,Riverside Health & Rehabilitation,,,
+30,East Hartford,Center,345,104,29 18
+31,East Haven,Apple Rehab Laurel Woods,120,19,,,,1,2
+32,East Haven,Whispering Pines,90,52,,,,11,13
+33,East Windsor,Fresh River Healthcare,140,36,,,,1,4
+34,Enfield,"Parkway Pavilion Health andRehabilitation Center",130,93,,16,2,,
+"",,,,,,,,,
+35,Fairfield,"Cambridge Health andRehabilitation Center",160,35,,10,9,,
+"",,,,,,,,,
+36,Fairfield,"Carolton Chronic & ConvalescentHospital",229,47,,12,1,,
+"",,,,,,,,,
+37,Fairfield,"Ludlowe Center for Health &Rehabilitation",144,42,,9,14,,
+"",,,,,,,,,
+38,Farmington,Touchpoints at Farmington,105,80,,,,13,3
+39,Glastonbury,Glastonbury Health Care Center,105,49,,,,19,6
+40,Glastonbury,Salmon Brook Rehab and Nursing,130,30,,,,12,4
+41,Granby,Meadowbrook of Granby,90,0,,,,0,1
+42,Greenwich,Greenwich Woods,217,28,,,,7,3
+43,Greenwich,Nathaniel Witherall,202,45,,,,8,1
+44,Greenwich,RegalCare at Greenwich,75,5,,,,2,0
+45,Groton,"Mystic Healthcare &Rehabilitation Center",100,45,,9,3,,
+"",,,,,,,,,
+46,Guilford,Apple Rehab Guilford,90,23,,,,5,1
+47,Guilford,Guilford House,75,1,,,,0,0
+48,Hamden,Arden House,360,69,,,,12,0
+49,Hamden,"Hamden Rehabilitation & HealthCare Center",153,48,,11,1,,
+"",,,,,,,,,
+50,Hamden,Whitney Center,59,0,,,,1,0
+51,Hamden,"Whitney Rehabilitation CareCenter",150,60,,7,0,,
+"",,,,,,,,,
+52,Hartford,"Avery Nursing Home/NobleBuilding",199,30,,4,0,,
+"",,,,,,,,,
+53,Hartford,Chelsea Place,234,62,,,,16,8
+54,Hartford,Parkville Care Center,150,60,,,,5,2
+55,Hartford,Trinity Hill Care Center,144,62,,,,6,1
+56,Madison,Madison House,89,40,,,,7,2
+57,Manchester,Crestfield Rehabilitation Center,155,24,,,,8,1
+58,Manchester,"Manchester Manor Health CareCenter",126,19,,6,1,,
+"",,,,,,,,,
+59,Manchester,Touchpoints at Manchester,131,47,,,,14,4
+60,Manchester,Westside Care Center,162,49,,,,0,3
+61,Marlborough,Marlborough Health Care Center,120,20,,,,1,0
+62,Meriden,Apple Rehab Coccomo,100,30,,,,8,5
+63,Meriden,Meriden Center,130,1,,,,0,0
+64,Meriden,Silver Springs Care Center,159,55,,,,3,0
+65,Meriden,The Curtis Home,60,10,,,,7,0
+66,Middletown,Apple Rehab Middletown,70,12,,,,4,5
+67,Middletown,Middlesex Health Care Center,150,30,,,,18,4
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+68,Middletown,"Water's Edge Center for Health &Rehabilitation",150,30,,5,4,,
+"",,,,,,,,,
+69,Milford,Golden Hill Rehab Pavilion,120,82,,,,17,6
+70,Milford,"Milford Health and RehabilitationCenter",120,73,,18,1,,
+"",,,,,,,,,
+71,Milford,West River Rehab Center,120,18,,,,3,1
+72,Naugatuck,Beacon Brook Health Center,126,24,,,,2,0
+73,Naugatuck,Glendale Center,120,32,,,,3,0
+74,New Britain,"Autumn Lake Healthcare At NewBritain",282,67,,5,1,,
+"",,,,,,,,,
+75,New Britain,Cassena Care at New Britain,90,28,,,,2,1
+76,New Britain,"Grandview Rehabilitation andHealthcare Center",160,38,,16,3,,
+"",,,,,,,,,
+77,New Canaan,Waveny Care Center,76,43,,,,5,2
+78,New Haven,"Advanced Center For Nursing AndRehabilitation",226,33,,1,0,,
+"",,,,,,,,,
+79,New Haven,Grimes Center,114,58,,,,3,0
+80,New Haven,RegalCare at New Haven,150,35,,,,5,0
+81,New Haven,The Mary Wade Home,94,33,,,,12,6
+82,New London,Harbor Village,128,5,,,,1,0
+83,New Milford,"Candlewood Valley Health &Rehabilitation Center",148,2,,2,0,,
+"",,,,,,,,,
+84,New Milford,"Village Crest Center for Health &Rehabilitation",95,36,,7,0,,
+"",,,,,,,,,
+85,Newington,Bel Air Manor,71,2,,,,2,1
+86,Newington,Jefferson House,104,21,,,,0,1
+87,Newington,"Newington Rapid Recovery RehabCenter",180,71,,13,7,,
+"",,,,,,,,,
+88,Newtown,"Newtown Rehabilitation & HealthCare Center",154,15,,0,0,,
+"",,,,,,,,,
+89,Niantic,"Bride Brook Health &Rehabilitation Center",130,96,,5,2,,
+"",,,,,,,,,
+90,North Haven,"Montowese Health &Rehabilitation Center",120,78,,9,1,,
+"",,,,,,,,,
+91,Norwalk,"Autumn Lake Healthcare atNorwalk",150,56,,15,6,,
+"",,,,,,,,,
+92,Norwalk,Cassena Care at Norwalk,150,63,,,,11,0
+93,Norwalk,"Notre Dame Health andRehabilitation Center",60,6,,0,0,,
+"",,,,,,,,,
+94,Orange,Orange Health Care Center,60,43,,,,2,0
+95,Plainville,Apple Rehab Farmington Valley,160,22,,,,7,1
+96,Portland,Portland Care and Rehabilitation,65,22,,,,6,2
+97,Redding,Ridge Crest at Meadow Ridge,62,10,,,,7,1
+98,Ridgefield,Laurel Ridge Health Care Center,126,22,,,,6,1
+99,Rocky Hill,60 West,95,30,,,,5,0
+100,Rocky Hill,Apple Rehab Rocky Hill,120,74,,,,15,2
+101,Rocky Hill,"John L. Levitow Health CareCenter",125,5,,0,1,,
+"",,,,,,,,,
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+102,Rocky Hill,"Maple View Health &Rehabilitation Center",120,32,,12,6,,
+"",,,,,,,,,
+103,Seymour,Shady Knoll Health Center,128,73,,,,26,3
+104,Sharon,Sharon Health Care Center,88,7,,,,0,0
+105,Shelton,Apple Rehab Shelton Lakes,106,50,,,,16,3
+106,Shelton,"Bishop-Wicke Health andRehabilitation",120,27,,17,13,,
+"",,,,,,,,,
+107,Shelton,"Gardner Heights Health CareCenter",130,50,,21,4,,
+"",,,,,,,,,
+108,Shelton,"Hewitt Health & RehabilitationCenter",120,49,,13,3,,
+"",,,,,,,,,
+109,Simsbury,Governor's House,70,1,,,,0,0
+110,Simsbury,McLean Health Center,89,24,,,,3,1
+111,Southbury,Lutheran Home of Southbury,120,41,,,,14,1
+112,Southington,Southington Care Center,130,17,,,,0,0
+113,Southington,Summit at Plantsville,150,48,,,,9,2
+114,Southport,RegalCare at Southport,120,39,,,,7,1
+115,Stafford Springs,Evergreen Health Care Center,180,47,,,,14,1
+116,Stamford,Cassena Care at Stamford,156,72,,,,13,3
+117,Stamford,Edgehill Health Center,46,18,,,,6,2
+118,Stamford,Long Ridge Post-Acute Care,120,58,,,,10,1
+119,Stamford,St. Camillus Center,124,40,,,,15,2
+120,Stamford,The Villa at Stamford,128,24,,,,5,0
+121,Stratford,Lord Chamberlain Manor,60,13,,,,0,0
+122,Stratford,"Lord Chamberlain Nursing andRehabilitation Center",190,58,,26,3,,
+"",,,,,,,,,
+123,Suffield,Suffield House,128,50,,,,9,7
+124,Tolland,"Woodlake at TollandRehabilitation and Nursing Center",130,0,,0,1,,
+"",,,,,,,,,
+125,Torrington,Litchfield Woods,160,126,,,,28,2
+126,Torrington,RegalCare at Torrington,75,32,,,,7,0
+127,Torrington,Valerie Manor,151,59,,,,5,7
+128,Torrington,Wolcott Hall Nursing Center,60,13,,,,4,1
+129,Trumbull,Maefair Health Care Center,134,68,,,,15,8
+130,Trumbull,St. Joseph's Center,269,92,,,,14,9
+131,Vernon,Fox Hill Center,150,57,,,,10,0
+132,Wallingford,Masonicare Health Center,357,9,,,,0,1
+133,Wallingford,Quinnipiac Valley Center,180,55,,,,6,1
+134,Wallingford,"Regency House Nursing andRehabilitation Center",130,64,,,15,4,
+135,Wallingford,Skyview Rehab and Nursing,97,48,,,,1,0
+136,Waterbury,Abbott Terrace Health Center,205,121,,,,31,7
+137,Waterbury,"Autumn Lake Healthcare At BucksHill",90,15,,2,0,,
+"",,,,,,,,,
+138,Waterbury,"Cheshire House Health CareFacility & Rehabilitation Center",75,23,,1,1,,
+"",,,,,,,,,
+139,Waterbury,RegalCare at Waterbury,120,50,,,,9,0
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"",
+""
+""
+""
+""
+"",,Waterbury Gardens Nursing and,,,,
+140,Waterbury,Rehabilitation,150,39,11,1
+141,Waterbury,Grove Manor Nursing Home,60,3,0,0
+142,Waterford,Bayview Health Care,127,37,7,0
+"",,New London Sub-Acute and,,,,
+143,Waterford,Nursing,120,74,1,0
+144,Watertown,Apple Rehab Watertown,110,1,1,0
+"",,Hebrew Center for Health and,,,,
+145,West Hartford,Rehabilitation,257,34,3,2
+146,West Hartford,Hughes Health and Rehabilitation,170,37,7,6
+147,West Hartford,Saint Mary Home,256,43,9,8
+148,West Hartford,The Reservoir,75,8,2,0
+"",,West Hartford Health and,,,,
+149,West Hartford,Rehabilitation Center,160,23,6,9
+150,West Haven,Apple Rehab West Haven,90,57,6,1
+151,West Haven,RegalCare at West Haven,98,18,5,0
+152,Westport,Westport Rehabilitation Complex,99,28,7,4
+"",,Wilton Meadows Health Care,,,,
+153,Wilton,Center,148,8,7,15
+154,Windham,St. Joseph's Living Center,120,26,3,0
+155,Windsor,Kimberly Hall North,150,68,15,25
+156,Windsor,Kimberly Hall South,180,65,9,3
+"",,Windsor Health and Rehabilitation,,,,
+157,Windsor,Center,108,54,17,3
+158,Windsor Locks,Bickford Health Care Center,48,14,0,1
+159,Woodbridge,The Willows,90,59,11,5
+Total,,,"20,568","5,962","1,228",399
