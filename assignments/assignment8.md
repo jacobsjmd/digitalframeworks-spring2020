@@ -6,8 +6,7 @@ Codepen: https://codepen.io/jacobsjmd/pen/KKdLavG
 I found that the Fraternal Order of Police has given around $140,000 to federal candidates in the past three cycles. The majority of 
 the donations have gone to Democratic PACs, with those affilated with Rep. Steny Hoyer (D-MD), Sen. Patrick Leahy (D-Vt) and Sen. Amy Klobuchar (D-MN).
 
-With protests against police brutality sweeping the nation, police unions have been widely criticized for thier opposition to reform. Yet  
-Democrats, who typically voice more support for police reform, have actually been the greater recipients of political donations from the FOP. Sen. Klobuchar's record 
+With protests against police brutality sweeping the nation, police unions have been widely criticized for thier opposition to reform. Yet Democrats, who typically voice more support for police reform, have actually been the greater recipients of political donations from the FOP. Sen. Klobuchar's record 
 as Hennepin County attorney has come under fire for how her office handled police accused of wrongdoing. I look at donations from other police unions, as well as lobbying records 
 to get an idea of the police union's influence on the Hill. I would also reach out to the major recipients of police union donations and the FOP itself.
 
