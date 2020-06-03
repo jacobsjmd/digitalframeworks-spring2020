@@ -17,5 +17,5 @@ to get an idea of the police union's influence on Capitol Hill. I would also rea
 
 Headline: Police unions donated over $100,000 to national Democrats in recent cycles
 
-Nut graf: The Fraternal Order of Police donated three times as much to Democrats as Republicans in recent years, 
+Nut graf: The Fraternal Order of Police donated nearly three times as much to Democrats as Republicans in recent years, 
 even as they have opposed police reforms that have become mainstream in the Democratic party.
